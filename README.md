@@ -16,6 +16,7 @@
 🎯 _Focused on building modular and scalable systems._
 
 ## Contact Me
+![Website](https://img.shields.io/website?url=https%3A%2F%2Ffelipeoidor.com%2F)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/felipe-oidor/)
 [![GitHub](https://img.shields.io/badge/Follow-%23121011.svg?logo=github&logoColor=white)](https://github.com/pipe-py)
 [![Mail](https://img.shields.io/badge/pipe@felipeoidor.com-2948ff)](mailto:pipe@felipeoidor.com)
